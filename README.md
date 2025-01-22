@@ -1,9 +1,7 @@
 
-# Repository listing: Desafio 04 do GoStack 13 da Rocketseat
-
+# Repository listing
 <h2>Descrição:</h2>
 <p>Neste repositório há a implementação de algumas rotas referentes a uma aplicação para armazenamento, listagem e exclusão de repositórios.
-  O <b>desafio completo</b> está <a href="https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs">aqui</a>.
 </p>
 
 <h2>Principais tecnologias utilizadas</h2>
